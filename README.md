@@ -110,7 +110,7 @@ Following inferences can be drawn from the dashboard:
 
 - Ship Mode Analysis: Evaluate the effectiveness of different shipping modes and optimize logistics processes.
 
-## Summary
+## Final Outcome
 
 By leveraging the XD Corp Power BI Dashboard, stakeholders can make data-driven decisions to enhance operational efficiency, improve customer satisfaction, and drive sustainable growth across global markets.
 
