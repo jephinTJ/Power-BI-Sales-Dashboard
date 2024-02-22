@@ -9,7 +9,7 @@ XD Corp operates globally, selling various products across different countries. 
 
 To address this, a Power BI Dashboard has been developed to provide insights into sales performance, customer segmentation, regional analysis, and order trends.
 
-## The primary objectives of the Dashboard
+## Primary objectives
 
 1. **Visualizing Sales Performance**: Display total sales, costs, and profits to assess overall financial health.
 
