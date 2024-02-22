@@ -110,6 +110,8 @@ Following inferences can be drawn from the dashboard:
 
 ## Final Outcome
 
+A Power BI Dashboard has been developed to provide insights into sales performance, customer segmentation, regional analysis, and order trends.
+
 By leveraging the XD Corp Power BI Dashboard, stakeholders can make data-driven decisions to enhance operational efficiency, improve customer satisfaction, and drive sustainable growth across global markets.
 
 ## Resources
