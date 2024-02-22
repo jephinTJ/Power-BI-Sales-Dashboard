@@ -7,8 +7,6 @@ A Power BI project for data visualization and data insights.
 
 XD Corp operates globally, selling various products across different countries. The challenge lies in effectively analyzing and visualizing key business metrics to drive informed decision-making.
 
-To address this, a Power BI Dashboard has been developed to provide insights into sales performance, customer segmentation, regional analysis, and order trends.
-
 ## Primary objectives
 
 1. **Visualizing Sales Performance**: Display total sales, costs, and profits to assess overall financial health.
