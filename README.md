@@ -116,5 +116,5 @@ By leveraging the XD Corp Power BI Dashboard, stakeholders can make data-driven 
 
 ## Resources
 
-### For this dashboard template, contact via [email](jephintj@gmail.com)
+### For this dashboard template, contact via email at jephintj@gmail.com
 ### [Jephin](https://github.com/jephinTJ)
