@@ -5,19 +5,19 @@ A Power BI project for data visualization and data insights.
 
 ## Table of Contents
 
-  - [Problem Statement](#problem-statement)
-  - [Primary objectives](#primary-objectives)
-  - [Steps Followed](#steps-followed)
-  - [Snapshot of Dashboard](#snapshot-of-dashboard-power-bi-desktop)
-  - [Report Snapshot](#report-snapshot)
-  - [Insights and Learnings:](#insights-and-learnings)
-      - [Sales Performance](#1-sales-performance)
-    - [Customer Analysis](#2-customer-analysis)
-    - [Regional Insights](#3-regional-insights)
-    - [Category Analysis](#4-category-analysis)
-    - [Order Trends](#5-order-trends)
-  - [Final Outcome](#final-outcome)
-  - [Resources](#resources)
+  - [*Problem Statement*](#problem-statement)
+  - [*Primary objectives*](#primary-objectives)
+  - [*Steps Followed*](#steps-followed)
+  - [*Snapshot of Dashboard*](#snapshot-of-dashboard-power-bi-desktop)
+  - [*Report Snapshot*](#report-snapshot)
+  - [*Insights and Learnings:*](#insights-and-learnings)
+    - [*Sales Performance*](#1-sales-performance)
+    - [*Customer Analysis*](#2-customer-analysis)
+    - [*Regional Insights*](#3-regional-insights)
+    - [*Category Analysis*](#4-category-analysis)
+    - [*Order Trends*](#5-order-trends)
+  - [*Final Outcome*](#final-outcome)
+  - [*Resources*](#resources)
 
 ## Problem Statement
 
