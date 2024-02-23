@@ -5,9 +5,15 @@ A Power BI project for data visualization and data insights.
 
 ## Table of Contents
 
-  - [Problem Statement](#Problem-Statement)
-  - [Data source](#data-source)
+  - [Problem Statement](#problem-statement)
+  - [Primary objectives](#primary-objectives)
   - [Steps Followed](#steps-followed)
+  - [Snapshot of Dashboard (Power BI Desktop)](#snapshot-of-dashboard-power-bi-desktop)
+  - [Report Snapshot](#report-snapshot)
+  - [Insights and Learnings](#insights-and-learnings)
+  -   [Regional Insights](#3-regional-insights)
+  - [Final Outcome](#final-outcome)
+  - [Resources](#resources)
 
 ## Problem Statement
 
