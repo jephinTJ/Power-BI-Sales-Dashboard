@@ -3,6 +3,12 @@ A Power BI project for data visualization and data insights.
 
 <img width="700" height="" alt="mh" src="https://github.com/jephinTJ/XD-Corp-Dashboard/assets/142671149/f0aaa746-63ad-4d78-a50a-c5aba8cdc4d8">
 
+## Table of Contents
+
+  - [Problem Statement](#Problem-Statement)
+  - [Data source](#data-source)
+  - [Steps Followed](#steps-followed)
+
 ## Problem Statement
 
 XD Corp operates globally, selling various products across different countries. The challenge lies in effectively analyzing and visualizing key business metrics to drive informed decision-making.
