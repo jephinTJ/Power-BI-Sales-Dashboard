@@ -10,8 +10,8 @@ A Power BI project for data visualization and data insights.
   - [Steps Followed](#steps-followed)
   - [Snapshot of Dashboard (Power BI Desktop)](#snapshot-of-dashboard-power-bi-desktop)
   - [Report Snapshot](#report-snapshot)
-  - [Insights and Learnings](#insights-and-learnings)
-  -   [Regional Insights](#3-regional-insights)
+  - [Insights and Learnings:](#insights-and-learnings)
+    - [Regional Insights](#3-regional-insights)
   - [Final Outcome](#final-outcome)
   - [Resources](#resources)
 
