@@ -3,6 +3,14 @@ A Power BI project for data visualization and data insights.
 
 <img width="700" height="" alt="mh" src="https://github.com/jephinTJ/XD-Corp-Dashboard/assets/142671149/f0aaa746-63ad-4d78-a50a-c5aba8cdc4d8">
 
+## Project Overview [P-A-R Format]
+#### Problem: 
+XD Corp, a global company, lacked efficient data analysis and visualization for informed decision-making across diverse products and regions.</br>
+#### Action: 
+Developed an interactive Power BI dashboard to visualize sales, customer insights, regional performance, product categories, and order trends.</br>
+#### Result: 
+XD Corp gained clear data-driven insights to optimize operations, enhance customer satisfaction, and drive global market growth.</br>
+
 ## Table of Contents
 
   - [*Problem Statement*](#problem-statement)
