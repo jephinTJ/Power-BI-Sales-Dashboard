@@ -1,7 +1,7 @@
 # XD Corp Power BI Dashboard
 A Power BI project for data visualization and data insights.
 
-<img width="700" height="" alt="mh" src="https://github.com/jephinTJ/XD-Corp-Dashboard/assets/142671149/f0aaa746-63ad-4d78-a50a-c5aba8cdc4d8">
+<img width="" alt="laptopmockup" src="https://github.com/jephinTJ/SalesAnalyticsPowerBI-XD-Corp/assets/142671149/f5665b74-a1b5-4772-a353-966010d2a3ab">
 
 ## Project Overview [P-A-R Format]
 #### ❓Problem: 
